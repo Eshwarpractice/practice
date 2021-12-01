@@ -1,0 +1,4 @@
+Windows server 2019 Base
+
+rdp username:Administrator
+password    :sQIhZlBKOam@lDmVIwospYm=xjS2=R;X
